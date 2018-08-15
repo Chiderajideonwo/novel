@@ -1,0 +1,202 @@
+/* Your custom styles */
+
+#intro_background {
+	background-image: url('../images/blog_background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+
+}
+.intro_text{
+	text-align: center;
+	background-color: white;
+	opacity: 0.7;
+	border: 2px solid brown; 
+}
+
+#intro_text{
+	text-align: left;
+	background-color: rgb(199,82,82,0.6);
+	border: 2px solid brown; 
+}
+
+#welcome_message{
+	border: 2px solid	#DAA520;
+}
+
+#blog_post_create{
+	padding: 20px;
+	background-color: white;
+	border: 2px solid red;
+	opacity: 0.79;
+}
+
+#blog_post_edit{
+	padding: 20px;
+	background-color: white;
+	border: 2px solid green;
+	opacity: 0.79;
+}
+
+#sure_delete{
+	/*border: 2px solid grey;
+	background-color: grey;*/
+
+}
+/*
+.btn{
+	padding: 10px 2px;
+}*/
+
+#card-control{
+	border: 2px solid  #DAA520;
+	padding-left: 10px; 
+
+}
+#card-control_home{
+
+	border: 2px solid  #DAA520;
+	padding-left: 5px; 
+}
+
+#sidebar{
+
+	border:2px solid grey;
+	padding: 5px;
+}
+
+#write_to_us{
+
+	padding: 20px;
+	background-color: white;
+	border: 2px solid yellow;
+	opacity: 0.79;
+}
+#welcome{
+
+	position: relative;
+	bottom: 50px;
+	color: white;
+	font-family: times new roman;
+}
+
+.nav_image{
+	width: 100px;
+	height: 50px;
+}
+.post {
+	padding-left: 10px;
+}
+
+.d_title{
+	padding-left: 5px;
+}
+
+.d_data{
+	padding-left: 5px;
+}
+.table_head{
+	color: teal;
+}
+table,td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+#popular_btn {
+	margin: 0 !important;
+	position: relative;;
+	top: 20px;
+	left: 480px;
+
+}
+
+#link_btn {
+	/*color: red !important;*/
+}
+#defaultFormCardNameEx {
+	border: 1px solid !important;
+}
+
+.comment{
+
+	margin-bottom: 45px;
+}
+
+.author_pic{
+
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+}
+
+.author_name{
+	float: left;
+	margin-left: 15px;
+}
+
+.author_comment{
+
+	clear: both;
+	margin-left: 65px;
+	font-size: 17px;
+	line-height: 1.3em;
+}
+
+.author_time {
+
+	font-size: 11px;
+	font-style: italic;
+	color: #aaa;
+}
+
+.comment_title {
+
+	margin-bottom: 45px; 
+}
+
+.comment_title>i{
+
+	margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*#comment_para{
+
+	font-weight: bold !important;
+}*/
+
+
+./*text-center{
+
+align-items: center;
+
+}
+*/
+
